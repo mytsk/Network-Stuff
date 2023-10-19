@@ -1,3 +1,4 @@
+
 config firewall address
     edit "Andorra"
         set type geography
