@@ -1,0 +1,1278 @@
+config firewall address
+    edit "Andorra"
+        set type geography
+        set country "AD"
+        set color 2
+    next
+    edit "United Arab Emirates"
+        set type geography
+        set country "AE"
+        set color 2
+    next
+    edit "Afghanistan"
+        set type geography
+        set country "AF"
+        set color 2
+    next
+    edit "Antigua and Barbuda"
+        set type geography
+        set country "AG"
+        set color 2
+    next
+    edit "Anguilla"
+        set type geography
+        set country "AI"
+        set color 2
+    next
+    edit "Albania"
+        set type geography
+        set country "AL"
+        set color 2
+    next
+    edit "Armenia"
+        set type geography
+        set country "AM"
+        set color 2
+    next
+    edit "Netherlands Antilles"
+        set type geography
+        set country "AN"
+        set color 2
+    next
+    edit "Angola"
+        set type geography
+        set country "AO"
+        set color 2
+    next
+    edit "Antarctica"
+        set type geography
+        set country "AQ"
+        set color 2
+    next
+    edit "Argentina"
+        set type geography
+        set country "AR"
+        set color 2
+    next
+    edit "American Samoa"
+        set type geography
+        set country "AS"
+        set color 2
+    next
+    edit "Austria"
+        set type geography
+        set country "AT"
+        set color 2
+    next
+    edit "Australia"
+        set type geography
+        set country "AU"
+        set color 2
+    next
+    edit "Aruba"
+        set type geography
+        set country "AW"
+        set color 2
+    next
+    edit "Aland Islands"
+        set type geography
+        set country "AX"
+        set color 2
+    next
+    edit "Azerbaijan"
+        set type geography
+        set country "AZ"
+        set color 2
+    next
+    edit "Bosnia and Herzegovina"
+        set type geography
+        set country "BA"
+        set color 2
+    next
+    edit "Barbados"
+        set type geography
+        set country "BB"
+        set color 2
+    next
+    edit "Bangladesh"
+        set type geography
+        set country "BD"
+        set color 2
+    next
+    edit "Belgium"
+        set type geography
+        set country "BE"
+        set color 2
+    next
+    edit "Burkina Faso"
+        set type geography
+        set country "BF"
+        set color 2
+    next
+    edit "Bulgaria"
+        set type geography
+        set country "BG"
+        set color 2
+    next
+    edit "Bahrain"
+        set type geography
+        set country "BH"
+        set color 2
+    next
+    edit "Burundi"
+        set type geography
+        set country "BI"
+        set color 2
+    next
+    edit "Benin"
+        set type geography
+        set country "BJ"
+        set color 2
+    next
+    edit "Saint Bartelemey"
+        set type geography
+        set country "BL"
+        set color 2
+    next
+    edit "Bermuda"
+        set type geography
+        set country "BM"
+        set color 2
+    next
+    edit "Brunei Darussalam"
+        set type geography
+        set country "BN"
+        set color 2
+    next
+    edit "Bolivia"
+        set type geography
+        set country "BO"
+        set color 2
+    next
+    edit "Bonaire, Saint Eustatius and Saba"
+        set type geography
+        set country "BQ"
+        set color 2
+    next
+    edit "Brazil"
+        set type geography
+        set country "BR"
+        set color 2
+    next
+    edit "Bahamas"
+        set type geography
+        set country "BS"
+        set color 2
+    next
+    edit "Bhutan"
+        set type geography
+        set country "BT"
+        set color 2
+    next
+    edit "Bouvet Island"
+        set type geography
+        set country "BV"
+        set color 2
+    next
+    edit "Botswana"
+        set type geography
+        set country "BW"
+        set color 2
+    next
+    edit "Belarus"
+        set type geography
+        set country "BY"
+        set color 2
+    next
+    edit "Belize"
+        set type geography
+        set country "BZ"
+        set color 2
+    next
+    edit "Canada"
+        set type geography
+        set country "CA"
+        set color 2
+    next
+    edit "Cocos -Keeling- Islands"
+        set type geography
+        set country "CC"
+        set color 2
+    next
+    edit "Congo, The Democratic Republic of the"
+        set type geography
+        set country "CD"
+        set color 2
+    next
+    edit "Central African Republic"
+        set type geography
+        set country "CF"
+        set color 2
+    next
+    edit "Congo"
+        set type geography
+        set country "CG"
+        set color 2
+    next
+    edit "Switzerland"
+        set type geography
+        set country "CH"
+        set color 2
+    next
+    edit "Cote dIvoire"
+        set type geography
+        set country "CI"
+        set color 2
+    next
+    edit "Cook Islands"
+        set type geography
+        set country "CK"
+        set color 2
+    next
+    edit "Chile"
+        set type geography
+        set country "CL"
+        set color 2
+    next
+    edit "Cameroon"
+        set type geography
+        set country "CM"
+        set color 2
+    next
+    edit "China"
+        set type geography
+        set country "CN"
+        set color 2
+    next
+    edit "Colombia"
+        set type geography
+        set country "CO"
+        set color 2
+    next
+    edit "Costa Rica"
+        set type geography
+        set country "CR"
+        set color 2
+    next
+    edit "Cuba"
+        set type geography
+        set country "CU"
+        set color 2
+    next
+    edit "Cape Verde"
+        set type geography
+        set country "CV"
+        set color 2
+    next
+    edit "Curacao"
+        set type geography
+        set country "CW"
+        set color 2
+    next
+    edit "Christmas Island"
+        set type geography
+        set country "CX"
+        set color 2
+    next
+    edit "Cyprus"
+        set type geography
+        set country "CY"
+        set color 2
+    next
+    edit "Czech Republic"
+        set type geography
+        set country "CZ"
+        set color 2
+    next
+    edit "Germany"
+        set type geography
+        set country "DE"
+        set color 2
+    next
+    edit "Djibouti"
+        set type geography
+        set country "DJ"
+        set color 2
+    next
+    edit "Denmark"
+        set type geography
+        set country "DK"
+        set color 2
+    next
+    edit "Dominica"
+        set type geography
+        set country "DM"
+        set color 2
+    next
+    edit "Dominican Republic"
+        set type geography
+        set country "DO"
+        set color 2
+    next
+    edit "Algeria"
+        set type geography
+        set country "DZ"
+        set color 2
+    next
+    edit "Ecuador"
+        set type geography
+        set country "EC"
+        set color 2
+    next
+    edit "Estonia"
+        set type geography
+        set country "EE"
+        set color 2
+    next
+    edit "Egypt"
+        set type geography
+        set country "EG"
+        set color 2
+    next
+    edit "Western Sahara"
+        set type geography
+        set country "EH"
+        set color 2
+    next
+    edit "Eritrea"
+        set type geography
+        set country "ER"
+        set color 2
+    next
+    edit "Spain"
+        set type geography
+        set country "ES"
+        set color 2
+    next
+    edit "Ethiopia"
+        set type geography
+        set country "ET"
+        set color 2
+    next
+    edit "Finland"
+        set type geography
+        set country "FI"
+        set color 2
+    next
+    edit "Fiji"
+        set type geography
+        set country "FJ"
+        set color 2
+    next
+    edit "Falkland Islands -Malvinas-"
+        set type geography
+        set country "FK"
+        set color 2
+    next
+    edit "Micronesia, Federated States of"
+        set type geography
+        set country "FM"
+        set color 2
+    next
+    edit "Faroe Islands"
+        set type geography
+        set country "FO"
+        set color 2
+    next
+    edit "France"
+        set type geography
+        set country "FR"
+        set color 2
+    next
+    edit "Gabon"
+        set type geography
+        set country "GA"
+        set color 2
+    next
+    edit "United Kingdom"
+        set type geography
+        set country "GB"
+        set color 2
+    next
+    edit "Grenada"
+        set type geography
+        set country "GD"
+        set color 2
+    next
+    edit "Georgia"
+        set type geography
+        set country "GE"
+        set color 2
+    next
+    edit "French Guiana"
+        set type geography
+        set country "GF"
+        set color 2
+    next
+    edit "Guernsey"
+        set type geography
+        set country "GG"
+        set color 2
+    next
+    edit "Ghana"
+        set type geography
+        set country "GH"
+        set color 2
+    next
+    edit "Gibraltar"
+        set type geography
+        set country "GI"
+        set color 2
+    next
+    edit "Greenland"
+        set type geography
+        set country "GL"
+        set color 2
+    next
+    edit "Gambia"
+        set type geography
+        set country "GM"
+        set color 2
+    next
+    edit "Guinea"
+        set type geography
+        set country "GN"
+        set color 2
+    next
+    edit "Guadeloupe"
+        set type geography
+        set country "GP"
+        set color 2
+    next
+    edit "Equatorial Guinea"
+        set type geography
+        set country "GQ"
+        set color 2
+    next
+    edit "Greece"
+        set type geography
+        set country "GR"
+        set color 2
+    next
+    edit "South Georgia and the South Sandwich Islands"
+        set type geography
+        set country "GS"
+        set color 2
+    next
+    edit "Guatemala"
+        set type geography
+        set country "GT"
+        set color 2
+    next
+    edit "Guam"
+        set type geography
+        set country "GU"
+        set color 2
+    next
+    edit "Guinea-Bissau"
+        set type geography
+        set country "GW"
+        set color 2
+    next
+    edit "Guyana"
+        set type geography
+        set country "GY"
+        set color 2
+    next
+    edit "Hong Kong"
+        set type geography
+        set country "HK"
+        set color 2
+    next
+    edit "Heard Island and McDonald Islands"
+        set type geography
+        set country "HM"
+        set color 2
+    next
+    edit "Honduras"
+        set type geography
+        set country "HN"
+        set color 2
+    next
+    edit "Croatia"
+        set type geography
+        set country "HR"
+        set color 2
+    next
+    edit "Haiti"
+        set type geography
+        set country "HT"
+        set color 2
+    next
+    edit "Hungary"
+        set type geography
+        set country "HU"
+        set color 2
+    next
+    edit "Indonesia"
+        set type geography
+        set country "ID"
+        set color 2
+    next
+    edit "Ireland"
+        set type geography
+        set country "IE"
+        set color 2
+    next
+    edit "Israel"
+        set type geography
+        set country "IL"
+        set color 2
+    next
+    edit "Isle of Man"
+        set type geography
+        set country "IM"
+        set color 2
+    next
+    edit "India"
+        set type geography
+        set country "IN"
+        set color 2
+    next
+    edit "British Indian Ocean Territory"
+        set type geography
+        set country "IO"
+        set color 2
+    next
+    edit "Iraq"
+        set type geography
+        set country "IQ"
+        set color 2
+    next
+    edit "Iran, Islamic Republic of"
+        set type geography
+        set country "IR"
+        set color 2
+    next
+    edit "Iceland"
+        set type geography
+        set country "IS"
+        set color 2
+    next
+    edit "Italy"
+        set type geography
+        set country "IT"
+        set color 2
+    next
+    edit "Jersey"
+        set type geography
+        set country "JE"
+        set color 2
+    next
+    edit "Jamaica"
+        set type geography
+        set country "JM"
+        set color 2
+    next
+    edit "Jordan"
+        set type geography
+        set country "JO"
+        set color 2
+    next
+    edit "Japan"
+        set type geography
+        set country "JP"
+        set color 2
+    next
+    edit "Kenya"
+        set type geography
+        set country "KE"
+        set color 2
+    next
+    edit "Kyrgyzstan"
+        set type geography
+        set country "KG"
+        set color 2
+    next
+    edit "Cambodia"
+        set type geography
+        set country "KH"
+        set color 2
+    next
+    edit "Kiribati"
+        set type geography
+        set country "KI"
+        set color 2
+    next
+    edit "Comoros"
+        set type geography
+        set country "KM"
+        set color 2
+    next
+    edit "Saint Kitts and Nevis"
+        set type geography
+        set country "KN"
+        set color 2
+    next
+    edit "Korea, Democratic Peoples Republic of"
+        set type geography
+        set country "KP"
+        set color 2
+    next
+    edit "Korea, Republic of"
+        set type geography
+        set country "KR"
+        set color 2
+    next
+    edit "Kuwait"
+        set type geography
+        set country "KW"
+        set color 2
+    next
+    edit "Cayman Islands"
+        set type geography
+        set country "KY"
+        set color 2
+    next
+    edit "Kazakhstan"
+        set type geography
+        set country "KZ"
+        set color 2
+    next
+    edit "Lao Peoples Democratic Republic"
+        set type geography
+        set country "LA"
+        set color 2
+    next
+    edit "Lebanon"
+        set type geography
+        set country "LB"
+        set color 2
+    next
+    edit "Saint Lucia"
+        set type geography
+        set country "LC"
+        set color 2
+    next
+    edit "Liechtenstein"
+        set type geography
+        set country "LI"
+        set color 2
+    next
+    edit "Sri Lanka"
+        set type geography
+        set country "LK"
+        set color 2
+    next
+    edit "Liberia"
+        set type geography
+        set country "LR"
+        set color 2
+    next
+    edit "Lesotho"
+        set type geography
+        set country "LS"
+        set color 2
+    next
+    edit "Lithuania"
+        set type geography
+        set country "LT"
+        set color 2
+    next
+    edit "Luxembourg"
+        set type geography
+        set country "LU"
+        set color 2
+    next
+    edit "Latvia"
+        set type geography
+        set country "LV"
+        set color 2
+    next
+    edit "Libyan Arab Jamahiriya"
+        set type geography
+        set country "LY"
+        set color 2
+    next
+    edit "Morocco"
+        set type geography
+        set country "MA"
+        set color 2
+    next
+    edit "Monaco"
+        set type geography
+        set country "MC"
+        set color 2
+    next
+    edit "Moldova, Republic of"
+        set type geography
+        set country "MD"
+        set color 2
+    next
+    edit "Montenegro"
+        set type geography
+        set country "ME"
+        set color 2
+    next
+    edit "Saint Martin"
+        set type geography
+        set country "MF"
+        set color 2
+    next
+    edit "Madagascar"
+        set type geography
+        set country "MG"
+        set color 2
+    next
+    edit "Marshall Islands"
+        set type geography
+        set country "MH"
+        set color 2
+    next
+    edit "Macedonia"
+        set type geography
+        set country "MK"
+        set color 2
+    next
+    edit "Mali"
+        set type geography
+        set country "ML"
+        set color 2
+    next
+    edit "Myanmar"
+        set type geography
+        set country "MM"
+        set color 2
+    next
+    edit "Mongolia"
+        set type geography
+        set country "MN"
+        set color 2
+    next
+    edit "Macao"
+        set type geography
+        set country "MO"
+        set color 2
+    next
+    edit "Northern Mariana Islands"
+        set type geography
+        set country "MP"
+        set color 2
+    next
+    edit "Martinique"
+        set type geography
+        set country "MQ"
+        set color 2
+    next
+    edit "Mauritania"
+        set type geography
+        set country "MR"
+        set color 2
+    next
+    edit "Montserrat"
+        set type geography
+        set country "MS"
+        set color 2
+    next
+    edit "Malta"
+        set type geography
+        set country "MT"
+        set color 2
+    next
+    edit "Mauritius"
+        set type geography
+        set country "MU"
+        set color 2
+    next
+    edit "Maldives"
+        set type geography
+        set country "MV"
+        set color 2
+    next
+    edit "Malawi"
+        set type geography
+        set country "MW"
+        set color 2
+    next
+    edit "Mexico"
+        set type geography
+        set country "MX"
+        set color 2
+    next
+    edit "Malaysia"
+        set type geography
+        set country "MY"
+        set color 2
+    next
+    edit "Mozambique"
+        set type geography
+        set country "MZ"
+        set color 2
+    next
+    edit "Namibia"
+        set type geography
+        set country "NA"
+        set color 2
+    next
+    edit "New Caledonia"
+        set type geography
+        set country "NC"
+        set color 2
+    next
+    edit "Niger"
+        set type geography
+        set country "NE"
+        set color 2
+    next
+    edit "Norfolk Island"
+        set type geography
+        set country "NF"
+        set color 2
+    next
+    edit "Nigeria"
+        set type geography
+        set country "NG"
+        set color 2
+    next
+    edit "Nicaragua"
+        set type geography
+        set country "NI"
+        set color 2
+    next
+    edit "Netherlands"
+        set type geography
+        set country "NL"
+        set color 2
+    next
+    edit "Norway"
+        set type geography
+        set country "NO"
+        set color 2
+    next
+    edit "Nepal"
+        set type geography
+        set country "NP"
+        set color 2
+    next
+    edit "Nauru"
+        set type geography
+        set country "NR"
+        set color 2
+    next
+    edit "Niue"
+        set type geography
+        set country "NU"
+        set color 2
+    next
+    edit "New Zealand"
+        set type geography
+        set country "NZ"
+        set color 2
+    next
+    edit "Oman"
+        set type geography
+        set country "OM"
+        set color 2
+    next
+    edit "Panama"
+        set type geography
+        set country "PA"
+        set color 2
+    next
+    edit "Peru"
+        set type geography
+        set country "PE"
+        set color 2
+    next
+    edit "French Polynesia"
+        set type geography
+        set country "PF"
+        set color 2
+    next
+    edit "Papua New Guinea"
+        set type geography
+        set country "PG"
+        set color 2
+    next
+    edit "Philippines"
+        set type geography
+        set country "PH"
+        set color 2
+    next
+    edit "Pakistan"
+        set type geography
+        set country "PK"
+        set color 2
+    next
+    edit "Poland"
+        set type geography
+        set country "PL"
+        set color 2
+    next
+    edit "Saint Pierre and Miquelon"
+        set type geography
+        set country "PM"
+        set color 2
+    next
+    edit "Pitcairn"
+        set type geography
+        set country "PN"
+        set color 2
+    next
+    edit "Puerto Rico"
+        set type geography
+        set country "PR"
+        set color 2
+    next
+    edit "Palestinian Territory"
+        set type geography
+        set country "PS"
+        set color 2
+    next
+    edit "Portugal"
+        set type geography
+        set country "PT"
+        set color 2
+    next
+    edit "Palau"
+        set type geography
+        set country "PW"
+        set color 2
+    next
+    edit "Paraguay"
+        set type geography
+        set country "PY"
+        set color 2
+    next
+    edit "Qatar"
+        set type geography
+        set country "QA"
+        set color 2
+    next
+    edit "Reunion"
+        set type geography
+        set country "RE"
+        set color 2
+    next
+    edit "Romania"
+        set type geography
+        set country "RO"
+        set color 2
+    next
+    edit "Serbia"
+        set type geography
+        set country "RS"
+        set color 2
+    next
+    edit "Russian Federation"
+        set type geography
+        set country "RU"
+        set color 2
+    next
+    edit "Rwanda"
+        set type geography
+        set country "RW"
+        set color 2
+    next
+    edit "Saudi Arabia"
+        set type geography
+        set country "SA"
+        set color 2
+    next
+    edit "Solomon Islands"
+        set type geography
+        set country "SB"
+        set color 2
+    next
+    edit "Seychelles"
+        set type geography
+        set country "SC"
+        set color 2
+    next
+    edit "Sudan"
+        set type geography
+        set country "SD"
+        set color 2
+    next
+    edit "Sweden"
+        set type geography
+        set country "SE"
+        set color 2
+    next
+    edit "Singapore"
+        set type geography
+        set country "SG"
+        set color 2
+    next
+    edit "Saint Helena"
+        set type geography
+        set country "SH"
+        set color 2
+    next
+    edit "Slovenia"
+        set type geography
+        set country "SI"
+        set color 2
+    next
+    edit "Svalbard and Jan Mayen"
+        set type geography
+        set country "SJ"
+        set color 2
+    next
+    edit "Slovakia"
+        set type geography
+        set country "SK"
+        set color 2
+    next
+    edit "Sierra Leone"
+        set type geography
+        set country "SL"
+        set color 2
+    next
+    edit "San Marino"
+        set type geography
+        set country "SM"
+        set color 2
+    next
+    edit "Senegal"
+        set type geography
+        set country "SN"
+        set color 2
+    next
+    edit "Somalia"
+        set type geography
+        set country "SO"
+        set color 2
+    next
+    edit "Suriname"
+        set type geography
+        set country "SR"
+        set color 2
+    next
+    edit "South Sudan"
+        set type geography
+        set country "SS"
+        set color 2
+    next
+    edit "Sao Tome and Principe"
+        set type geography
+        set country "ST"
+        set color 2
+    next
+    edit "El Salvador"
+        set type geography
+        set country "SV"
+        set color 2
+    next
+    edit "Sint Maarten"
+        set type geography
+        set country "SX"
+        set color 2
+    next
+    edit "Syrian Arab Republic"
+        set type geography
+        set country "SY"
+        set color 2
+    next
+    edit "Swaziland"
+        set type geography
+        set country "SZ"
+        set color 2
+    next
+    edit "Turks and Caicos Islands"
+        set type geography
+        set country "TC"
+        set color 2
+    next
+    edit "Chad"
+        set type geography
+        set country "TD"
+        set color 2
+    next
+    edit "French Southern Territories"
+        set type geography
+        set country "TF"
+        set color 2
+    next
+    edit "Togo"
+        set type geography
+        set country "TG"
+        set color 2
+    next
+    edit "Thailand"
+        set type geography
+        set country "TH"
+        set color 2
+    next
+    edit "Tajikistan"
+        set type geography
+        set country "TJ"
+        set color 2
+    next
+    edit "Tokelau"
+        set type geography
+        set country "TK"
+        set color 2
+    next
+    edit "Timor-Leste"
+        set type geography
+        set country "TL"
+        set color 2
+    next
+    edit "Turkmenistan"
+        set type geography
+        set country "TM"
+        set color 2
+    next
+    edit "Tunisia"
+        set type geography
+        set country "TN"
+        set color 2
+    next
+    edit "Tonga"
+        set type geography
+        set country "TO"
+        set color 2
+    next
+    edit "Turkey"
+        set type geography
+        set country "TR"
+        set color 2
+    next
+    edit "Trinidad and Tobago"
+        set type geography
+        set country "TT"
+        set color 2
+    next
+    edit "Tuvalu"
+        set type geography
+        set country "TV"
+        set color 2
+    next
+    edit "Taiwan"
+        set type geography
+        set country "TW"
+        set color 2
+    next
+    edit "Tanzania, United Republic of"
+        set type geography
+        set country "TZ"
+        set color 2
+    next
+    edit "Ukraine"
+        set type geography
+        set country "UA"
+        set color 2
+    next
+    edit "Uganda"
+        set type geography
+        set country "UG"
+        set color 2
+    next
+    edit "United States Minor Outlying Islands"
+        set type geography
+        set country "UM"
+        set color 2
+    next
+    edit "United States"
+        set type geography
+        set country "US"
+        set color 2
+    next
+    edit "Uruguay"
+        set type geography
+        set country "UY"
+        set color 2
+    next
+    edit "Uzbekistan"
+        set type geography
+        set country "UZ"
+        set color 2
+    next
+    edit "Holy See -Vatican City State-"
+        set type geography
+        set country "VA"
+        set color 2
+    next
+    edit "Saint Vincent and the Grenadines"
+        set type geography
+        set country "VC"
+        set color 2
+    next
+    edit "Venezuela"
+        set type geography
+        set country "VE"
+        set color 2
+    next
+    edit "Virgin Islands, British"
+        set type geography
+        set country "VG"
+        set color 2
+    next
+    edit "Virgin Islands, U.S."
+        set type geography
+        set country "VI"
+        set color 2
+    next
+    edit "Vietnam"
+        set type geography
+        set country "VN"
+        set color 2
+    next
+    edit "Vanuatu"
+        set type geography
+        set country "VU"
+        set color 2
+    next
+    edit "Wallis and Futuna"
+        set type geography
+        set country "WF"
+        set color 2
+    next
+    edit "Samoa"
+        set type geography
+        set country "WS"
+        set color 2
+    next
+    edit "Kosovo"
+        set type geography
+        set country "XK"
+        set color 2
+    next
+    edit "Yemen"
+        set type geography
+        set country "YE"
+        set color 2
+    next
+    edit "Mayotte"
+        set type geography
+        set country "YT"
+        set color 2
+    next
+    edit "South Africa"
+        set type geography
+        set country "ZA"
+        set color 2
+    next
+    edit "Zambia"
+        set type geography
+        set country "ZM"
+        set color 2
+    next
+    edit "Zimbabwe"
+        set type geography
+        set country "ZW"
+        set color 2
+    next
+
+
+    edit "Africa"
+        set member "Algeria" "Angola" "Benin" "Botswana" "British Indian Ocean Territory" "Burkina Faso" "Burundi" "Cameroon" "Cape Verde" "Central African Republic" "Chad" "Comoros" "Congo" "Congo, The Democratic Republic of the" "Cote dIvoire" "Djibouti" "Egypt" "Equatorial Guinea" "Eritrea" "Ethiopia" "French Southern Territories" "Gabon" "Gambia" "Ghana" "Guinea" "Guinea-Bissau" "Kenya" "Lesotho" "Liberia" "Libyan Arab Jamahiriya" "Madagascar" "Malawi" "Mali" "Mauritania" "Mauritius" "Mayotte" "Morocco" "Mozambique" "Namibia" "Niger" "Nigeria" "Reunion" "Rwanda" "Saint Helena" "Sao Tome and Principe" "Senegal" "Seychelles" "Sierra Leone" "Somalia" "South Africa" "South Sudan" "Sudan" "Swaziland" "Tanzania, United Republic of" "Togo" "Tunisia" "Uganda" "Western Sahara" "Zambia" "Zimbabwe"
+        set color 2
+    next
+    edit "Americas"
+        set member "Anguilla" "Antigua and Barbuda" "Argentina" "Aruba" "Bahamas" "Barbados" "Belize" "Bermuda" "Bolivia" "Bonaire, Saint Eustatius and Saba" "Bouvet Island" "Brazil" "Canada" "Cayman Islands" "Chile" "Colombia" "Costa Rica" "Cuba" "Curacao" "Dominica" "Dominican Republic" "Ecuador" "El Salvador" "Falkland Islands -Malvinas-" "French Guiana" "Greenland" "Grenada" "Guadeloupe" "Guatemala" "Guyana" "Haiti" "Honduras" "Jamaica" "Martinique" "Mexico" "Montserrat" "Netherlands Antilles" "Nicaragua" "Panama" "Paraguay" "Peru" "Puerto Rico" "Saint Bartelemey" "Saint Kitts and Nevis" "Saint Lucia" "Saint Martin" "Saint Pierre and Miquelon" "Saint Vincent and the Grenadines" "Sint Maarten" "South Georgia and the South Sandwich Islands" "Suriname" "Trinidad and Tobago" "Turks and Caicos Islands" "United States" "Uruguay" "Venezuela" "Virgin Islands, British" "Virgin Islands, U.S."
+        set color 2
+    next
+    edit "Asia"
+        set member "Afghanistan" "Armenia" "Azerbaijan" "Bahrain" "Bangladesh" "Bhutan" "Brunei Darussalam" "Cambodia" "China" "Cyprus" "Georgia" "Hong Kong" "India" "Indonesia" "Iran, Islamic Republic of" "Iraq" "Israel" "Japan" "Jordan" "Kazakhstan" "Korea, Democratic Peoples Republic of" "Korea, Republic of" "Kuwait" "Kyrgyzstan" "Lao Peoples Democratic Republic" "Lebanon" "Macao" "Malaysia" "Maldives" "Mongolia" "Myanmar" "Nepal" "Oman" "Pakistan" "Palestinian Territory" "Philippines" "Qatar" "Saudi Arabia" "Singapore" "Sri Lanka" "Syrian Arab Republic" "Taiwan" "Tajikistan" "Thailand" "Timor-Leste" "Turkey" "Turkmenistan" "United Arab Emirates" "Uzbekistan" "Vietnam" "Yemen"
+        set color 2
+    next
+    edit "Europe"
+        set member "Aland Islands" "Albania" "Andorra" "Austria" "Belarus" "Belgium" "Bosnia and Herzegovina" "Bulgaria" "Croatia" "Czech Republic" "Denmark" "Estonia" "Faroe Islands" "Finland" "France" "Germany" "Gibraltar" "Greece" "Guernsey" "Holy See -Vatican City State-" "Hungary" "Iceland" "Ireland" "Isle of Man" "Italy" "Jersey" "Kosovo" "Latvia" "Liechtenstein" "Lithuania" "Luxembourg" "Macedonia" "Malta" "Moldova, Republic of" "Monaco" "Montenegro" "Netherlands" "Norway" "Poland" "Portugal" "Romania" "Russian Federation" "San Marino" "Serbia" "Slovakia" "Slovenia" "Spain" "Svalbard and Jan Mayen" "Sweden" "Switzerland" "Ukraine" "United Kingdom"
+        set color 2
+    next
+    edit "Oceania"
+        set member "American Samoa" "Australia" "Christmas Island" "Cocos -Keeling- Islands" "Cook Islands" "Fiji" "French Polynesia" "Guam" "Heard Island and McDonald Islands" "Kiribati" "Marshall Islands" "Micronesia, Federated States of" "Nauru" "New Caledonia" "New Zealand" "Niue" "Norfolk Island" "Northern Mariana Islands" "Palau" "Papua New Guinea" "Pitcairn" "Samoa" "Solomon Islands" "Tokelau" "Tonga" "Tuvalu" "United States Minor Outlying Islands" "Vanuatu" "Wallis and Futuna"
+        set color 2
+    next
